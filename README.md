@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nurdin027
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning python language
-- 📫 How to reach me on email at amarnurdin000@gmail.com
+- 📫 You can reach me on email at amarnurdin000@gmail.com
                       and instagram at www.instagram.com/_nurdinamar
 
 <!---
