@@ -6,6 +6,11 @@
 - 📂 My CV at https://stackoverflow.com/story/nurdin
 - 🐱 See my another repository at https://gitlab.com/amarnurdin
 
+# My Stats
+<div>
+  <a href="#"><img style="margin-right:10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=demo_banten" width="350">
+  <img style="margin-left:10rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurdin027&theme=dark" width="350"></a>
+</div>
 <!---
 Nurdin027/Nurdin027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
