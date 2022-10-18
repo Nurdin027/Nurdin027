@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurdin027
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning python language
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🐍 I’m currently learning Python language
 - 📫 You can reach me on email at amarnurdin000@gmail.com
                       and instagram at www.instagram.com/_nurdinamar
 - 📂 My CV at https://stackoverflow.com/story/nurdin
