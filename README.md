@@ -8,8 +8,8 @@
 
 # My Stats
 <div>
-  <a href="#"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=[demo_banten,mbcciptalaras]" hidden>
-  <img style="width: 45%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark)"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark" hidden>
+  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark"></a>
 </div>
 <!---
 Nurdin027/Nurdin027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
