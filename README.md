@@ -8,7 +8,7 @@
 
 # My Stats
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark" hidden>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark">
   <img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten&layout=compact&theme=dark"></a>
 </div>
 <!---
