@@ -8,7 +8,7 @@
 
 # My Stats
 <div>
-  <a href="#"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=demo_banten" hidden>
+  <a href="#"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=demo_banten&exclude_repo=new_sikap" hidden>
   <img style="width: 45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurdin027&theme=dark"></a>
 </div>
 <!---
