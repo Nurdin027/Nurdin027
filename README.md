@@ -8,8 +8,8 @@
 
 # My Stats
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten,cam_monitor&layout=compact&theme=dark">
-  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten,cam_monitor&layout=compact&theme=dark"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten,me&layout=compact&theme=dark">
+  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten,me&layout=compact&theme=dark"></a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Nurdin027&theme=dark"><img style="width: 45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurdin027&theme=dark"></a>
 </div>
 <!---
