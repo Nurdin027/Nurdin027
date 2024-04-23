@@ -6,7 +6,13 @@
 - 📂 My CV <a href="https://nurdin027.github.io/me" target="_blank">at here!</a>
 - 🐱 See my another repository at <a href="https://gitlab.com/amarnurdin" target="_blank">https://gitlab.com/amarnurdin</a>
 
+
 # My Stats
+
+<h3>Coding time spend since last year</h3>
+<a target="_blank" href="https://wakatime.com/@Nurdin027">
+  <img style="width: 45%" src="https://wakatime.com/badge/user/c25d0ebc-4dcf-4e80-bbc7-5932e98ddae0.svg">
+</a>
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten,me&layout=compact&theme=dark">
   <img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin027&exclude_repo=demo_banten,me&layout=compact&theme=dark"></a>
