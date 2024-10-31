@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurdin027
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🐍 I’m currently learning Python language
+- 🐍 I’m currently use Python as main programming language
+- 👀 I’m learning Artificial Intelligence, Machine Learning and Mikroconroller
 - 📫 You can reach me on email at <a href="mailto:amarnurdin000@gmail.com" target="_blank">amarnurdin000@gmail.com</a>
                       and instagram at <a href="https://www.instagram.com/_amarnurdin/" target="_blank">https://www.instagram.com/_amarnurdin/</a>
 - 📂 My CV <a href="https://nurdin027.github.io/me" target="_blank">at here!</a>
