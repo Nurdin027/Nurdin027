@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nurdin027
-- 🐍 I’m currently use Python as main programming language
-- 👀 I’m learning Artificial Intelligence, Machine Learning and Mikroconroller
-- 📫 You can reach me on email at <a href="mailto:amarnurdin000@gmail.com" target="_blank">amarnurdin000@gmail.com</a>
-                      and instagram at <a href="https://www.instagram.com/_amarnurdin/" target="_blank">https://www.instagram.com/_amarnurdin/</a>
-- 📂 My CV <a href="https://nurdin027.github.io/me" target="_blank">at here!</a>
-- 🐱 See my another repository at <a href="https://gitlab.com/amarnurdin" target="_blank">https://gitlab.com/amarnurdin</a>
+- 🐍 Currently using Python as my main programming language.
+- 👀 I’m learning Artificial Intelligence, Machine Learning, and Microcontrollers.
+- 📫 You can reach me via email at <a href="mailto:amarnurdin000@gmail.com" target="_blank">amarnurdin000@gmail.com</a>
+                      and on Instagram at <a href="https://www.instagram.com/_amarnurdin/" target="_blank">https://www.instagram.com/_amarnurdin/</a>
+- 📂 My CV is available here: <a href="https://nurdin027.github.io/me" target="_blank">at here!</a>
+- 🐱 See my other repositories at <a href="https://gitlab.com/amarnurdin" target="_blank">https://gitlab.com/amarnurdin</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_amarnurdin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnurdin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amar-nurdin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarnurdindev@gmail.com) 
