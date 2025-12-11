@@ -44,6 +44,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=6d28d9)
+![Odoo](https://img.shields.io/badge/odoo-714B67?style=for-the-badge&logo=odoo)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
